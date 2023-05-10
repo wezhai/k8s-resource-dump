@@ -14,3 +14,4 @@
 ```
 ./dump.sh default ./outputdir
 ```
+![log.png](./log.png)
